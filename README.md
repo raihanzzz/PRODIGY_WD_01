@@ -25,9 +25,6 @@ It demonstrates a responsive landing page with an interactive navigation menu th
 
 ---
 
-
----
-
 ## ⚙️ How It Works
 
 - The navigation bar is **fixed at the top**
@@ -43,17 +40,6 @@ It demonstrates a responsive landing page with an interactive navigation menu th
 - Responsive design techniques
 - Creating user-friendly navigation systems
 
----
-
-## 🖥️ Live Demo
-
-👉 *(Add your GitHub Pages link here if deployed)*
-
----
-
-## 📸 Preview
-
-*(You can add screenshots here later)*
 
 ---
 
@@ -63,11 +49,5 @@ This project was completed as part of my internship at **Prodigy Infotech**.
 
 ---
 
-## 📬 Connect With Me
-
-- 💼 LinkedIn: *(Add your link)*
-- 💻 GitHub: *(Add your profile link)*
-
----
 
 ⭐ If you like this project, feel free to give it a star!
