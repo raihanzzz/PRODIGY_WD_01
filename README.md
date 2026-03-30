@@ -25,4 +25,49 @@ It demonstrates a responsive landing page with an interactive navigation menu th
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## ⚙️ How It Works
+
+- The navigation bar is **fixed at the top**
+- When you **scroll**, JavaScript dynamically updates the navbar style
+- When you **hover over menu items**, CSS applies interactive effects
+
+---
+
+## 💡 Key Learning Outcomes
+
+- DOM manipulation using JavaScript
+- Event handling (scroll & hover)
+- Responsive design techniques
+- Creating user-friendly navigation systems
+
+---
+
+## 🖥️ Live Demo
+
+👉 *(Add your GitHub Pages link here if deployed)*
+
+---
+
+## 📸 Preview
+
+*(You can add screenshots here later)*
+
+---
+
+## 🙌 Acknowledgment
+
+This project was completed as part of my internship at **Prodigy Infotech**.
+
+---
+
+## 📬 Connect With Me
+
+- 💼 LinkedIn: *(Add your link)*
+- 💻 GitHub: *(Add your profile link)*
+
+---
+
+⭐ If you like this project, feel free to give it a star!
